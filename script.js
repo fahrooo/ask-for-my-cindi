@@ -13,7 +13,7 @@ btnYes.addEventListener("click", () =>{
     btnYes.style.display = "none"
 
     setTimeout(() => {
-        window,location.href = "/date.html"
+        window,location.href = "/ask-for-my-cindi/date.html"
     }, 5000);
 })
 
